@@ -1,1 +1,1 @@
-# clock_Relogio
+Relógio feito com HTML, CSS e JavaScript.
